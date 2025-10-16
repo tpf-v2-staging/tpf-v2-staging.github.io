@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1adc86eb.css",
-    "main.js": "/static/js/main.7db33d39.js",
+    "main.js": "/static/js/main.b806bcb5.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.c9c21625.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.2dfa121b.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.8aa41fb1.chunk.js",
@@ -17,10 +17,10 @@
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.fe05980d.chunk.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.9e480970.chunk.js",
     "static/media/backgroundFiuba.png": "/static/media/backgroundFiuba.a1495f530d3a2d79e838.png",
-    "static/media/Logo-fiuba_big_face.png": "/static/media/Logo-fiuba_big_face.64fbb18d35ac2b531d43.png",
+    "static/media/title-logo.png": "/static/media/title-logo.aa38fe600bfc282261f5.png",
     "index.html": "/index.html",
     "main.1adc86eb.css.map": "/static/css/main.1adc86eb.css.map",
-    "main.7db33d39.js.map": "/static/js/main.7db33d39.js.map",
+    "main.b806bcb5.js.map": "/static/js/main.b806bcb5.js.map",
     "reactPlayerYouTube.c9c21625.chunk.js.map": "/static/js/reactPlayerYouTube.c9c21625.chunk.js.map",
     "reactPlayerSoundCloud.2dfa121b.chunk.js.map": "/static/js/reactPlayerSoundCloud.2dfa121b.chunk.js.map",
     "reactPlayerVimeo.8aa41fb1.chunk.js.map": "/static/js/reactPlayerVimeo.8aa41fb1.chunk.js.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.1adc86eb.css",
-    "static/js/main.7db33d39.js"
+    "static/js/main.b806bcb5.js"
   ]
 }
